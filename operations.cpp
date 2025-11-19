@@ -1,6 +1,6 @@
 #include "operations.h"
 #include <iostream>
-#inclde <cmath>
+#include <cmath>
 using namespace std;
 
 double add(double a, double b) { return a + b; }
