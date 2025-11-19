@@ -13,6 +13,6 @@ cout << "Error: División por cero\n";
 return 0;
 }
 }
-double exxponent(double a, double b) {
-    return pow(a, b);
+double exponent(double a, double b){
+    return pow(a,b);
 }
